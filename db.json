@@ -1,0 +1,32 @@
+{
+  "chores": [
+    {
+      "id": "todo-Fi-cjnKnWITpNbqt1qBXs",
+      "name": "Study",
+      "tags": [
+        "School",
+        "TAMK"
+      ],
+      "completed": false
+    },
+    {
+      "id": "todo-yFLjQ48SxTs2Cr0lp6yxb",
+      "name": "Vacuum",
+      "tags": [
+        "Cleaning",
+        "Chores"
+      ],
+      "completed": false
+    },
+    {
+      "id": "todo-H38Ts_gpS2u4-WwdBQdLT",
+      "name": "Shovel Snow",
+      "tags": [
+        "Chores",
+        "Outside",
+        "Winter"
+      ],
+      "completed": false
+    }
+  ]
+}
