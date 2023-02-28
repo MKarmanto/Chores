@@ -1,7 +1,7 @@
 # Welcome!
 
 This is my first React-project
-Learned the basics of React by doing this project, the code might be bit messy at time, but learned a lot about modularity and other things to keep the code cleaner in the future.
+Learned the basics of React by doing this project, the code might be bit messy at time, but learned a lot about accessibility, modularity, and other things to keep the code cleaner in the future.
 
 ## The project
 The project is a simple React app with three pages. The app uses React
